@@ -1,0 +1,7 @@
+hairgapr
+hairgaps
+*.o
+core.*
+*~
+.*.swp
+
